@@ -1,0 +1,5 @@
+4#Fio computador quebrado#Hardware#O fio foi destruído, preciso de um novo.
+4#Notebook não liga#Hardware#Meu notebook não quer ligar.
+3#Software ruim#Software#Este software é muito ruim, sempre dando erros.
+3#Conexão péssima#Rede#Conexão com a internet toda hora caindo, péssimo.
+3#Impressora parou.#Criação Usuário#Acho que ela pifou ou algo assim, não quer mais ligar.
